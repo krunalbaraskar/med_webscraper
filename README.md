@@ -1,9 +1,3 @@
-Here is a complete, updated `README.md` file for your project.
-
-This version integrates the new `ted_extract_tender_info_py.ipynb` file, turning it into a complete, three-stage (Scrape, Parse, Clean) notebook-based process. The instructions for the TED scraper have been completely rewritten to match this new workflow, including the critical path configurations required to run it locally.
-
----
-
 # Adalimumab Tender Scrapers
 
 This repository contains Python scripts to scrape European public procurement websites for tenders related to the pharmaceutical product "adalimumab".
